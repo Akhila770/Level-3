@@ -26,10 +26,15 @@ int function(int num1)
 	 }
 	 if(res==14)
 	 {
-     return res;
-     }
+             return res;
+         }
      else
-	  {
+        {
 	 return 0;
-     }
+        }
 }
+
+
+//output:
+/*   enter a number:59
+	res=14    */
