@@ -26,3 +26,9 @@ int zero(int count)
 	}
 	printf("count=%d",c);
 }
+
+
+//output
+
+/* enter number:1023050
+  count= 3     */
