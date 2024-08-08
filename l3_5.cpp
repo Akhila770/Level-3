@@ -28,10 +28,6 @@ int zero(int count)
 }
 
 
-//output 
-/* enter number: 104040
-  count=3   */
-
 
 //output
 
