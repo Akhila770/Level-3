@@ -32,3 +32,10 @@ int isprime(int num1)
 	   printf("not prime number.");
      }
 }
+
+
+
+
+//output:
+/*  enter a number:17
+    prime number     */
