@@ -9,7 +9,7 @@ int main()
 { 
      int sub,n;
 	sub=function(n);
-	printf("sum=%d",sub);
+	printf("sub=%d",sub);
 }
 int function(int num1)
 {
@@ -19,3 +19,8 @@ int function(int num1)
 	 sub=n-5;
      return sub;	 
 }
+
+
+// output:
+/*  enter a number:15
+   sub=10     */
