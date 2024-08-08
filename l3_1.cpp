@@ -20,3 +20,8 @@ int function(int num1)
      return sum;	 
 }
 
+
+
+// Output:
+/* enter a number:18
+  sum=20    */
